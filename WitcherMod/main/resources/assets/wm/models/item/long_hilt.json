@@ -1,0 +1,113 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "wm:items/zweihander"
+	},
+	"elements": [
+		{
+			"name": "Cube5",
+			"from": [3, -4, 8.5],
+			"to": [14, -3, 9.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"north": {"uv": [11.181, 4.342, 12.92, 4.078], "texture": "#texture"},
+				"east": {"uv": [11.746, 4.039, 12.246, 4.539], "texture": "#texture"},
+				"south": {"uv": [11.181, 4.136, 12.823, 4.31], "texture": "#texture"},
+				"west": {"uv": [11.746, 6.985, 12.246, 7.36], "texture": "#texture"},
+				"up": {"uv": [11.746, 5.85, 12.258, 5.19], "texture": "#texture"},
+				"down": {"uv": [11.719, 7.515, 12.582, 6.875], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Cube6",
+			"from": [0.25, -3.5, 8.5],
+			"to": [3.25, -2.5, 9.375],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [1.75, -3, 8.9375]},
+			"faces": {
+				"north": {"uv": [11.181, 4.342, 12.92, 4.078], "texture": "#texture"},
+				"east": {"uv": [11.746, 4.039, 12.246, 4.539], "texture": "#texture"},
+				"south": {"uv": [11.181, 4.136, 12.823, 4.31], "texture": "#texture"},
+				"west": {"uv": [11.746, 6.985, 12.246, 7.36], "texture": "#texture"},
+				"up": {"uv": [11.746, 5.85, 12.258, 5.19], "texture": "#texture"},
+				"down": {"uv": [11.719, 7.515, 12.582, 6.875], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Cube7",
+			"from": [13.5, -3.5, 8.5],
+			"to": [16.5, -2.5, 9.375],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [15, -3, 8.9375]},
+			"faces": {
+				"north": {"uv": [11.181, 4.342, 12.92, 4.078], "texture": "#texture"},
+				"east": {"uv": [11.746, 4.039, 12.246, 4.539], "texture": "#texture"},
+				"south": {"uv": [11.181, 4.136, 12.823, 4.31], "texture": "#texture"},
+				"west": {"uv": [11.746, 6.985, 12.246, 7.36], "texture": "#texture"},
+				"up": {"uv": [11.746, 5.85, 12.258, 5.19], "texture": "#texture"},
+				"down": {"uv": [11.719, 7.515, 12.582, 6.875], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Cube6",
+			"from": [7.75, -13.625, 8.5],
+			"to": [9.375, -4, 9.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [11.746, 1.327, 12.046, 3.355], "texture": "#texture"},
+				"east": {"uv": [11.746, 1.034, 12.086, 3.414], "texture": "#texture"},
+				"south": {"uv": [11.883, 1.092, 12.086, 3.414], "texture": "#texture"},
+				"west": {"uv": [11.844, 1.288, 11.989, 3.278], "texture": "#texture"},
+				"up": {"uv": [11.59, 7.083, 12.357, 7.411], "texture": "#texture"},
+				"down": {"uv": [11.844, 6.985, 12.513, 7.704], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Cube7",
+			"from": [7, -15.625, 8],
+			"to": [10.125, -13.625, 9.875],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 1, 8]},
+			"faces": {
+				"north": {"uv": [11.688, 0.789, 12.028, 0.195], "texture": "#texture"},
+				"east": {"uv": [11.688, 0.788, 12.086, 0.039], "texture": "#texture"},
+				"south": {"uv": [11.688, 0.632, 12.028, 0.097], "texture": "#texture"},
+				"west": {"uv": [11.688, 0.73, 12.047, 0.136], "texture": "#texture"},
+				"up": {"uv": [2.439, 2.946, 3.219, 4.147], "texture": "#texture"},
+				"down": {"uv": [2.342, 0.897, 2.88, 1.622], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-1, 22, 2.0869],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-1, 22, 2.0869],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 11, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 11, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15]
+		},
+		"gui": {
+			"rotation": [0, 0, 45.5],
+			"translation": [-8, 7.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, 0, -45],
+			"translation": [9, 9, -1.5]
+		}
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "wm:items/langschwert",
+		"particle": "wm:items/langschwert"
+	},
+	"elements": [
+		{
+			"name": "Cube5",
+			"from": [4, -3, 8.5],
+			"to": [13, -2, 9.375],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [9.813, 10.688, 15.094, 10.469], "texture": "#0"},
+				"east": {"uv": [1.375, 11.844, 1.875, 12.344], "texture": "#0"},
+				"south": {"uv": [8.75, 10.906, 15.219, 10.5], "texture": "#0"},
+				"west": {"uv": [1.375, 11.594, 1.875, 11.969], "texture": "#0"},
+				"up": {"uv": [9.125, 10.782, 12.875, 10.438], "texture": "#0"},
+				"down": {"uv": [8.782, 10.782, 12.875, 10.563], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [11, 3.5, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [11, 3.5, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [11, 3.5, 0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [11, 3.5, 0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, 45.5],
+			"translation": [-10.5, 9.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, -45],
+			"translation": [8.5, 9.5, -2],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
