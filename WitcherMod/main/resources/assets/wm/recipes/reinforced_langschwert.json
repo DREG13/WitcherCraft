@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i",
+        "/"
+    ],
+    "key": {
+        "/": {
+            "item": "wm:hilt"
+        },
+        "i": {
+            "item": "wm:reinforced_blade"
+        }
+    },
+    "result": {
+        "item": "wm:reinforced_langschwert",
+        "count": 1
+    }
+}

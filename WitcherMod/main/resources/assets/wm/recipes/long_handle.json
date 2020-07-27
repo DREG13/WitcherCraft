@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/",
+        "i",
+        "l"
+    ],
+    "key": {
+        "/": {
+            "item": "wm:short_handle"
+        },
+ 	"l": {
+            "item": "wm:handle"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "wm:long_handle",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "wm:bottle_cooling_oil"
+    },
+    {
+      "item": "wm:bottle_cooling_oil"
+    },
+    {
+      "item": "wm:bottle_cooling_oil"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "minecraft:cooling_oil_bucket",
+        "count": 1
+    }
+}

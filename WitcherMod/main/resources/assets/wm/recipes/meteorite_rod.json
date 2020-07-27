@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "g g",
+        "g/g",
+        "g g"
+    ],
+    "key": {
+        "g": {
+            "item": "wm:meteor_iron_ingot"
+        },
+        "/": {
+            "item": "wm:thinn_iron_rod"
+        }
+    },
+    "result": {
+        "item": "wm:meteorite_rod",
+        "count": 1
+    }
+}

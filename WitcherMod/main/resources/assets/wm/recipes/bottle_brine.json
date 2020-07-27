@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "/i/",
+        "///"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:potion"
+        },
+        "i": {
+            "item": "wm:salt"
+        }
+    },
+    "result": {
+        "item": "wm:bottle_brine",
+        "count": 8
+    }
+}

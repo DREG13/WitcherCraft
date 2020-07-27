@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "ggg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "wm:meteor_iron_ingot"
+        }
+    },
+    "result": {
+        "item": "wm:meteorite_block",
+        "count": 1
+    }
+}

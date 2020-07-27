@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "i i",
+        "iCi"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:cauldron"
+        }
+    },
+    "result": {
+        "item": "wm:cooling_vat",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i",
+        "/"
+    ],
+    "key": {
+        "/": {
+            "item": "wm:long_hilt"
+        },
+        "i": {
+            "item": "wm:reinforced_long_blade"
+        }
+    },
+    "result": {
+        "item": "wm:reinforced_zweihander",
+        "count": 1
+    }
+}

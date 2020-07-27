@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "/",
+        "i"
+    ],
+    "key": {
+        "#": {
+            "item": "wm:large_guard"
+        },
+        "/": {
+            "item": "wm:long_handle"
+        },
+        "i": {
+            "item": "wm:pommel"
+        }
+    },
+    "result": {
+        "item": "wm:long_hilt",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "ggg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "wm:silver_ingot"
+        }
+    },
+    "result": {
+        "item": "wm:silver_block",
+        "count": 1
+    }
+}

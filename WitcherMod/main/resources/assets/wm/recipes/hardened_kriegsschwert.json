@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i",
+        "/"
+    ],
+    "key": {
+        "/": {
+            "item": "wm:small_hilt"
+        },
+        "i": {
+            "item": "wm:hardened_short_blade"
+        }
+    },
+    "result": {
+        "item": "wm:hardened_kriegsschwert",
+        "count": 1
+    }
+}

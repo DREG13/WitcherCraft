@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "/",
+        "i"
+    ],
+    "key": {
+        "#": {
+            "item": "wm:small_guard"
+        },
+        "/": {
+            "item": "wm:short_handle"
+        },
+        "i": {
+            "item": "wm:pommel"
+        }
+    },
+    "result": {
+        "item": "wm:small_hilt",
+        "count": 1
+    }
+}
