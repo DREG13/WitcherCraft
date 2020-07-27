@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "brine=false,facing=north,oil=false,water=false": { "model": "wm:cooling_vat_empty" },
+	"brine=false,facing=east,oil=false,water=false": { "model": "wm:cooling_vat_empty","y" : 90 },
+	"brine=false,facing=south,oil=false,water=false": { "model": "wm:cooling_vat_empty","y" : 180 },
+	"brine=false,facing=west,oil=false,water=false": { "model": "wm:cooling_vat_empty","y" : 270 },
+        "brine=false,facing=north,oil=false,water=true": { "model": "wm:cooling_vat_water" },
+	"brine=false,facing=east,oil=false,water=true": { "model": "wm:cooling_vat_water","y" : 90 },
+	"brine=false,facing=south,oil=false,water=true": { "model": "wm:cooling_vat_water","y" : 180 },
+	"brine=false,facing=west,oil=false,water=true": { "model": "wm:cooling_vat_water","y" : 270 },
+	"brine=false,facing=north,oil=true,water=false": { "model": "wm:cooling_vat_oil" },
+	"brine=false,facing=east,oil=true,water=false": { "model": "wm:cooling_vat_oil","y" : 90 },
+	"brine=false,facing=south,oil=true,water=false": { "model": "wm:cooling_vat_oil","y" : 180 },
+	"brine=false,facing=west,oil=true,water=false": { "model": "wm:cooling_vat_oil","y" : 270 },
+        "brine=true,facing=north,oil=false,water=false": { "model": "wm:cooling_vat_brine" },
+	"brine=true,facing=east,oil=false,water=false": { "model": "wm:cooling_vat_brine","y" : 90 },
+	"brine=true,facing=south,oil=false,water=false": { "model": "wm:cooling_vat_brine","y" : 180 },
+	"brine=true,facing=west,oil=false,water=false": { "model": "wm:cooling_vat_brine","y" : 270 }
+        
+    	}
+}

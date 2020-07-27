@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "done=false,facing=north,smithing=false": { "model": "wm:smithing_table" },
+	"done=false,facing=east,smithing=false": { "model": "wm:smithing_table","y" : 90},
+	"done=false,facing=south,smithing=false": { "model": "wm:smithing_table","y" : 180 },
+	"done=false,facing=west,smithing=false": { "model": "wm:smithing_table","y" : 270 },
+        "done=false,facing=north,smithing=true": { "model": "wm:smithing_table_smithing" },
+	"done=false,facing=east,smithing=true": { "model": "wm:smithing_table_smithing","y" : 90},
+	"done=false,facing=south,smithing=true": { "model": "wm:smithing_table_smithing","y" : 180 },
+	"done=false,facing=west,smithing=true": { "model": "wm:smithing_table_smithing","y" : 270 },
+        "done=true,facing=north,smithing=false": { "model": "wm:smithing_table_done" },
+	"done=true,facing=east,smithing=false": { "model": "wm:smithing_table_done","y" : 90},
+	"done=true,facing=south,smithing=false": { "model": "wm:smithing_table_done","y" : 180 },
+	"done=true,facing=west,smithing=false": { "model": "wm:smithing_table_done","y" : 270 }
+	}
+}

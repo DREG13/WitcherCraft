@@ -1,0 +1,14 @@
+{
+    "tile.cooling_vat.done":
+    {
+        "category":"tile",
+        "subtitle":"tile.cooling_vat.done",
+        "sounds":[{"name":"wm:tile/cooling_vat/done", "stream":true}]
+    },
+    "item.smithing-hammer.smithing":
+    {
+        "category":"item",
+        "subtitle":"item.smithing-hammer.smithing",
+        "sounds":[{"name":"wm:item/smithing_hammer/smithing", "stream":true}]
+    }
+}
