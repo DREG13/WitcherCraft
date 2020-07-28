@@ -70,15 +70,15 @@ public static final Item SMITHING_HAMMER = new SmithingHammer("smithing_hammer")
 
 public static final ToolMaterial TOOL_KRIEGSSCHWERT = EnumHelper.addToolMaterial("tool_kriegsschwert", 0, 250, 4.0F, 3.0F, 10);
 public static final ToolMaterial TOOL_LANGSCHWERT = EnumHelper.addToolMaterial("tool_langschwert", 0, 500, 3.0F, 4.0F, 12);
-public static final ToolMaterial TOOL_ZWEIHANDER = EnumHelper.addToolMaterial("tool_zweihander", 0, 1500, 5.0F, 11.0F, 14);
-public static final ToolMaterial TOOL_METEORITE = EnumHelper.addToolMaterial("tool_meteorite", 0, 2500, 4.0F, 6.0F, 16);
-public static final ToolMaterial TOOL_SILVER = EnumHelper.addToolMaterial("tool_silver", 0, 1200, 0F, 2.5F, 8);
-public static final ToolMaterial TOOL_REINFORCED_KRIEGSSCHWERT = EnumHelper.addToolMaterial("tool_reinforced_kriegsschwert", 0, 500, 4.0F, 4.0F, 10);
-public static final ToolMaterial TOOL_REINFORCED_LANGSCHWERT = EnumHelper.addToolMaterial("tool_reinforced_langschwert", 0, 1000, 3.0F, 5.0F, 12);
+public static final ToolMaterial TOOL_ZWEIHANDER = EnumHelper.addToolMaterial("tool_zweihander", 0, 1500, 5.0F, 8.0F, 14);
+public static final ToolMaterial TOOL_METEORITE = EnumHelper.addToolMaterial("tool_meteorite", 0, 2500, 4.0F, 9.0F, 16);
+public static final ToolMaterial TOOL_SILVER = EnumHelper.addToolMaterial("tool_silver", 0, 1200, 0F, 3.0F, 8);
+public static final ToolMaterial TOOL_REINFORCED_KRIEGSSCHWERT = EnumHelper.addToolMaterial("tool_reinforced_kriegsschwert", 0, 500, 4.0F, 6.0F, 10);
+public static final ToolMaterial TOOL_REINFORCED_LANGSCHWERT = EnumHelper.addToolMaterial("tool_reinforced_langschwert", 0, 1000, 3.0F, 7.0F, 12);
 public static final ToolMaterial TOOL_REINFORCED_ZWEIHANDER = EnumHelper.addToolMaterial("tool_reinforced_zweihander", 0, 3000, 5.0F, 12.0F, 14);
-public static final ToolMaterial TOOL_HARDENED_KRIEGSSCHWERT = EnumHelper.addToolMaterial("tool_hardened_kriegsschwert", 0, 350, 4.0F, 3.5F, 10);
-public static final ToolMaterial TOOL_HARDENED_LANGSCHWERT = EnumHelper.addToolMaterial("tool_hardened_langschwert", 0, 750, 3.0F, 4.5F, 12);
-public static final ToolMaterial TOOL_HARDENED_ZWEIHANDER = EnumHelper.addToolMaterial("tool_hardened_zweihander", 0, 2000, 5.0F, 11.5F, 14);
+public static final ToolMaterial TOOL_HARDENED_KRIEGSSCHWERT = EnumHelper.addToolMaterial("tool_hardened_kriegsschwert", 0, 350, 4.0F, 4.5F, 10);
+public static final ToolMaterial TOOL_HARDENED_LANGSCHWERT = EnumHelper.addToolMaterial("tool_hardened_langschwert", 0, 750, 3.0F, 5.5F, 12);
+public static final ToolMaterial TOOL_HARDENED_ZWEIHANDER = EnumHelper.addToolMaterial("tool_hardened_zweihander", 0, 2000, 5.0F, 10.0F, 14);
 
 //Tools
 
